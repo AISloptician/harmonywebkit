@@ -3,10 +3,10 @@ Made for Harmony by y4my4my4m (https://github.com/y4my4my4m/harmony)
 ## How to use
 
 ```
-download install.sh
-go to the folder install.sh is in in whatever terminal you use
 chmod +x install.sh
 ./install.sh
+
+have fun
 ```
 
 
