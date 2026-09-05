@@ -12,7 +12,7 @@ have fun
 
 
 This installer is very simple (And only works on Arch sorry).
-It pulls the requirements with pacman, installs itself into /home/user/.local/share/ as Harmony.
+It pulls the requirements with pacman, installs itself into /home/user/.local/share/ as Harmony and drops a desktop icon.
 ## Features
 
 Not relying on chrome/whatever browser. Just webkit (yippie), less RAM usage (not a lot though lol)
