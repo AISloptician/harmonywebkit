@@ -24,3 +24,8 @@ The single install script also comes with the icon
 Fast as fuck boiiii (compared to my Vivaldi webapp install)
 
 it might be absolute dogshit code wise as it is just made by Claude
+
+## Privacy Statement
+As I am an absolute monkey when it comes coding. I collect 0 info about you. I would not even know how to.
+
+The entire code is a singular file so look through it while you're having your coffee if you're that paranoid. The only thing that's 'encoded' about the entire project is the icon.
