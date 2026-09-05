@@ -1,6 +1,6 @@
 Made for Harmony by y4my4my4m (https://github.com/y4my4my4m/harmony)
 
-##How to use
+## How to use
 
 ```
 download install.sh
