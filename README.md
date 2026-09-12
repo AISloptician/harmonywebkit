@@ -23,7 +23,7 @@ The single install script also comes with the icon
 
 Fast as fuck boiiii (compared to my Vivaldi webapp install)
 
-it might be absolute dogshit code wise as it is just made by Claude
+it might be absolute dogshit code wise as it is just (partially) made by Claude
 
 ## Privacy Statement
 As I am an absolute monkey when it comes coding. I collect 0 info about you. I would not even know how to.
